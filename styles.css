@@ -1,0 +1,28 @@
+body, html {
+    height: 100%;
+    margin: 20px;
+    min-width: 320px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+
+.video-container, .tervitus {
+    width: 80%; 
+    padding: 20px;
+}
+h1 {
+    font-size: 70px;
+}
+p {
+    font-size: 30px;
+}
+b {
+    color: hotpink;
+    text-shadow: 2px 2px 4px lightpink;
+}
+video {
+    width: 100%;
+    height: auto;
+}
